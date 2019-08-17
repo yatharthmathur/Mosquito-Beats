@@ -1,0 +1,10 @@
+tensorflow-gpu
+matplotlib
+librosa
+scipy
+sklearn
+pandas
+numpy
+tqdm
+os
+
